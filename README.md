@@ -25,10 +25,14 @@ Things that I found most stimulating or that had the most impact on how I view t
 ### Music
 *Might change sporadically.*
 
-- Interpol
-- YARD
-- Gurriers
-- The 113
+- All Time
+     - Interpol
+     - Stupeflip
+     - The Murder Capital
+- Current
+     - YARD
+     - Gurriers
+     - The 113
 
 </div>
 
@@ -77,4 +81,4 @@ Things that I found most stimulating or that had the most impact on how I view t
 - Multi-agent systems, Game Theory and emergence
 
 ## Contact
-<a href="mailto:mgode@kth.se">Email</a> · [GitHub](https://github.com/MelvinGode) · [LinkedIn](https://www.linkedin.com/in/melvin-gode-4b8282134/)
+<center> <a href="mailto:mgode@kth.se">Email</a> · [GitHub](https://github.com/MelvinGode) · [LinkedIn](https://www.linkedin.com/in/melvin-gode-4b8282134/) </center>
