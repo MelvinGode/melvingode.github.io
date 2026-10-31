@@ -1,6 +1,6 @@
 # Melvin Gode
 PhD student at [KTH Royal Institute of Technology](https://www.kth.se/).
-<div style="text-align: right"> ![photo of me](face.png "face") </div>
+<div style="text-align: right"> ![photo of me](me.jpg "me") </div>
 
 ## Intro
 I currently just started by PhD at the [Department of Robotics, Perception and Learning](https://www.kth.se/rpl/department-of-robotics-perception-and-learning-1.779439) where I am working with [Danica Kragic](https://www.kth.se/profile/dani)'s group within the **Digitizing Smell** project!
@@ -8,11 +8,11 @@ I currently just started by PhD at the [Department of Robotics, Perception and L
 ## Publications
 Be patient.
 
-## Recommendations
+## Recommendations and Interests
 Things that I found most stimulating or that had the most impact on how I view the world.
 
 ### Music
-Might change sporadically.
+<small>Might change sporadically.</small>
 - Interpol
 - YARD
 - Gurriers
@@ -37,6 +37,11 @@ Might change sporadically.
 - Superliminal
 - Return of the Obra Dinn
 - The Witness
+
+### Research
+- Time Series
+- Graphs
+- Multi-agent systems, Game Theory and emergence
 
 ## Contact
 <a href="mailto:mgode@kth.se">email</a>
