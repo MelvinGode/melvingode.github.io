@@ -24,12 +24,13 @@ Things that I found most stimulating or that had the most impact on how I view t
 - Antifragile
 - The Selfish Gene & The Extended Phenotype
 - Human Enhancement
+- What We Owe The Future
 
 ### Youtube Channels
-- Sebastian Lague
-- Fractal Philosophy
-- The 80,000 Hours Podcast
-- Mr Phi (in French)
+- [Sebastian Lague](https://www.youtube.com/c/SebastianLague)
+- [Fractal Philosophy](https://www.youtube.com/@FractalPhilosophy)
+- [The 80,000 Hours Podcast](https://www.youtube.com/@eightythousandhours)
+- [Mr Phi](https://www.youtube.com/monsieurphi) (in French)
 
 ### Video Games
 - Celeste
