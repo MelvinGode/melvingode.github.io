@@ -1,6 +1,7 @@
-# Melvin Gode
 <img src="assets/me.jpg" alt="Melvin Gode" align="right" width="300"
      style="border-radius: 1%; margin: 0 0 1em 1.5em;">
+# Melvin Gode
+
 PhD student at [KTH Royal Institute of Technology](https://www.kth.se/) in Stockholm.
 
 ## Intro
