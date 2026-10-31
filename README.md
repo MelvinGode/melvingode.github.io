@@ -27,7 +27,7 @@ Things that I found most stimulating or that had the most impact on how I view t
      - Interpol
      - Stupeflip
      - The Murder Capital
-- Current *Tabspace* <small>Might change sporadically</small>
+- Current    <small>Might change sporadically</small>
      - YARD
      - Gurriers
      - The 113
