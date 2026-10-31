@@ -60,13 +60,16 @@ Selected based on what I found most stimulating or that had the most impact on h
 
 </div>
 
-</div>
-
-</details>
+<div markdown="1">
+     
 ### Research
 - Time Series
 - Graphs
 - Multi-agent systems, Game Theory and emergence
+
+</div>
+
+</div>
 
 ## Don't hesitate to reach out!
 <center> <a href="mailto:mgode@kth.se">Email</a> · <a href="https://github.com/MelvinGode">Github</a> · <a href="https://www.linkedin.com/in/melvin-gode-4b8282134/">LinkedIn</a> </center>
