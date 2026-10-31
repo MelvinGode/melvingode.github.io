@@ -5,7 +5,7 @@ PhD student at [KTH Royal Institute of Technology](https://www.kth.se/) in Stock
 
 ## Intro
 I currently just started my PhD at the [Department of Robotics, Perception and Learning](https://www.kth.se/rpl/department-of-robotics-perception-and-learning-1.779439) where I am working within [Danica Kragic](https://www.kth.se/profile/dani)'s group on the **Digitizing Smell** project!
-
+<br>
 Before that I graduated from the [MVA](https://www.master-mva.com/) in Machine Learning at ENS Paris-Saclay and previously studied Computer Science and Math at [Paris-Dauphine University](https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m1-i2d).
 
 
