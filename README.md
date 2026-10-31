@@ -81,4 +81,4 @@ Things that I found most stimulating or that had the most impact on how I view t
 - Multi-agent systems, Game Theory and emergence
 
 ## Don't hesitate to reach out!
-<center> <a href="mailto:mgode@kth.se">Email</a> · [GitHub](https://github.com/MelvinGode) · [LinkedIn](https://www.linkedin.com/in/melvin-gode-4b8282134/) </center>
+<center> <a href="mailto:mgode@kth.se">Email</a> · <a href="https://github.com/MelvinGode">Github</a> · <a href="https://www.linkedin.com/in/melvin-gode-4b8282134/">LinkedIn</a> </center>
