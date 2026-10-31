@@ -12,17 +12,29 @@ Before that I graduated from the [MVA](https://www.master-mva.com/) master in Ma
 ## Publications
 Be patient.
 
-## Recommendations and Interests
+<details markdown="1">
+<summary>Recommendations and interests</summary>
+
 Things that I found most stimulating or that had the most impact on how I view the world.
 
+<div class="cols" markdown="1">
+
+<div markdown="1">
+
 ### Music
-<small>Might change sporadically.</small>
+*Might change sporadically.*
+
 - Interpol
 - YARD
 - Gurriers
 - The 113
 
+</div>
+
+<div markdown="1">
+
 ### Books
+
 - The Black Swan
 - Superintelligence
 - Antifragile
@@ -30,19 +42,34 @@ Things that I found most stimulating or that had the most impact on how I view t
 - Human Enhancement
 - What We Owe The Future
 
-### Youtube Channels
+</div>
+
+<div markdown="1">
+
+### YouTube channels
+
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague)
 - [Fractal Philosophy](https://www.youtube.com/@FractalPhilosophy)
 - [The 80,000 Hours Podcast](https://www.youtube.com/@eightythousandhours)
 - [Mr Phi](https://www.youtube.com/monsieurphi) (in French)
 
-### Video Games
+</div>
+
+<div markdown="1">
+
+### Video games
+
 - Celeste
 - Satisfactory
 - Superliminal
 - Return of the Obra Dinn
 - The Witness
 
+</div>
+
+</div>
+
+</details>
 ### Research
 - Time Series
 - Graphs
