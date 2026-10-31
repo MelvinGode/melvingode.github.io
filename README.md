@@ -23,13 +23,11 @@ Things that I found most stimulating or that had the most impact on how I view t
 <div markdown="1">
 
 ### Music
-*Might change sporadically.*
-
 - All Time
      - Interpol
      - Stupeflip
      - The Murder Capital
-- Current
+- Current *Tabspace* <small>Might change sporadically</small>
      - YARD
      - Gurriers
      - The 113
