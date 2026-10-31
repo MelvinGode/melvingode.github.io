@@ -6,7 +6,7 @@ permalink: /taste/
 
 # Some things I find interesting
 
-Things that I found most stimulating or that had the most impact on how I view the world.
+Selected based on what I found most stimulating or that had the most impact on how I view the world.
 
 <div class="cols" markdown="1">
 
