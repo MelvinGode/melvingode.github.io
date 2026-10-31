@@ -1,6 +1,6 @@
 # Melvin Gode
 PhD student at [KTH Royal Institute of Technology](https://www.kth.se/).
-<div style="text-align: right"> ![photo of me](me.jpg "me") </div>
+<div style="text-align: right"> ![photo of me](assets/me.jpg "me") </div>
 
 ## Intro
 I currently just started by PhD at the [Department of Robotics, Perception and Learning](https://www.kth.se/rpl/department-of-robotics-perception-and-learning-1.779439) where I am working with [Danica Kragic](https://www.kth.se/profile/dani)'s group within the **Digitizing Smell** project!
