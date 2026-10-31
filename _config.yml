@@ -3,5 +3,4 @@ plugins:
   - jekyll-remote-theme
 title: Melvin Gode
 description: PhD Student at KTH
-logo: /assets/uncomfortably_close_face.jpeg
 show_downloads: false
